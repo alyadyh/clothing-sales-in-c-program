@@ -1,1 +1,0 @@
-# clothing-sales-in-c-program
